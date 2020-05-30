@@ -7,3 +7,7 @@ Dart is the programming language for Flutter, Google's UI toolkit for building b
 ## About Iterable Collections
 
 This repository teaches you how to use collections that implement the Iterable class — for example List and Set. Iterables are basic building blocks for all sorts of Dart applications, and you’re probably already using them, even without noticing.
+
+## What you will need
+
+[DartPad](https://dartpad.dev), an interactive browser-based tool that lets you play around with the Dart language features and core libraries. Upon request, you can use an IDE instead, such as [WebStorm](https://www.jetbrains.com/webstorm/), [IntelliJ IDEA](https://www.jetbrains.com/idea/) with the Dart plugin, or [Visual Studio Code](https://code.visualstudio.com/) with the Dart Code extension.
