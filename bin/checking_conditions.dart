@@ -1,4 +1,4 @@
-void main(){
+void main() {
   var items = ['Salad', 'Popcorn', 'Toast'];
 //  Using any()
   if (items.any((element) => element.contains('a'))) {
