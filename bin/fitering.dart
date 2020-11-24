@@ -1,4 +1,4 @@
-void main(){
+void main() {
 //   Using where()
   var evenNumbers = [1, -2, 3, 42].where((number) => number.isEven);
 
